@@ -2644,7 +2644,8 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
+		margin-left: 0em;
+		padding-top: 0em;
 		padding-left: 0;
 	}
 
@@ -3459,7 +3460,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("https://images.unsplash.com/photo-1637825891028-564f672aa42c");
+		background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/230404103516-chiang-mai-pollution-file.jpg?c=original");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
